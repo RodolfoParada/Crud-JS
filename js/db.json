@@ -1,18 +1,11 @@
 {
   "clientes": [
     {
-      "id": 1739199106506,
-      "nombre": "alain",
-      "email": "alain@email.com",
-      "telefono": "789456123",
-      "empresa": "aloe"
-    },
-    {
-      "id": 1739199152275,
+      "id": "1739203651514",
       "nombre": "aladino",
-      "email": "aladino@gmail.com",
-      "telefono": "78945634564",
-      "empresa": "sugar"
+      "email": "al@email.com",
+      "telefono": "234",
+      "empresa": "3412"
     }
   ]
 }
